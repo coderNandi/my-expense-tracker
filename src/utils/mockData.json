@@ -1,0 +1,114 @@
+[{
+    "id": 1,
+    "description": "John",
+    "amount": 30,
+    "category": "food",
+    "date": "22-01-24"
+},
+
+{
+    "id": 2,
+    "description": "ceily",
+    "amount": 30,
+    "category": "grocery",
+    "date": "22-01-24"
+},
+{
+    "id": 3,
+    "description": "happy",
+    "amount": 30,
+    "category":"travel",
+    "date": "22-01-24"
+},
+{
+    "id": 4,
+    "description": "raj",
+    "amount": 30,
+    "category":"entertainment",
+    "date": "22-01-24"
+},
+{
+    "id": 5,
+    "description": "naina",
+    "amount": 30,
+    "category":"travel",
+    "date": "22-01-24"
+},
+{
+    "id": 6,
+    "description": "thales",
+    "amount": 30,
+    "category": "medical",
+    "date": "22-01-24"
+},
+{
+    "id": 7,
+    "description": "neya",
+    "amount": 30,
+    "category":"movies",    
+    "date": "22-01-24"
+},
+{
+    "id": 8,
+    "description": "raj",
+    "amount": 30,
+    "category":"entertainment",
+    "date": "22-01-24"
+},
+{
+    "id": 9,
+    "description": "naina",
+    "amount": 30,
+    "category":"travel",
+    "date": "22-01-24"
+},
+{
+    "id": 10,
+    "description": "thales",
+    "amount": 30,
+    "category": "medical",
+    "date": "22-01-24"
+},
+{
+    "id": 11,
+    "description": "keya",
+    "amount": 30,
+    "category":"movies",    
+    "date": "22-01-24"
+},
+{
+    "id": 12,
+    "description": "neya",
+    "amount": 30,
+    "category":"movies",    
+    "date": "22-01-24"
+},
+{
+    "id": 13,
+    "description": "raj",
+    "amount": 30,
+    "category":"entertainment",
+    "date": "22-01-24"
+},
+{
+    "id": 14,
+    "description": "naina",
+    "amount": 30,
+    "category":"travel",
+    "date": "22-01-24"
+},
+{
+    "id": 15,
+    "description": "thales",
+    "amount": 30,
+    "category": "medical",
+    "date": "22-01-24"
+},
+{
+    "id": 16,
+    "description": "keya",
+    "amount": 30,
+    "category":"movies",    
+    "date": "22-01-24"
+}
+]
